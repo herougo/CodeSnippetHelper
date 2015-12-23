@@ -1,0 +1,20 @@
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\bin\Debug\CodeSnippets.exe.config
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\bin\Debug\CodeSnippets.exe
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\bin\Debug\CodeSnippets.pdb
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.Form1.resources
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.Properties.Resources.resources
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.csproj.GenerateResource.Cache
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.exe
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.pdb
+C:\Henri\My Documents\Visual Studio 2012\Projects\CodeSnippets\CodeSnippets\obj\Debug\CodeSnippets.Form2.resources
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\bin\Debug\CodeSnippets.exe.config
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.exe
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.pdb
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.Form1.resources
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.Form2.resources
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.Properties.Resources.resources
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\obj\Debug\CodeSnippets.csproj.GenerateResource.Cache
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\bin\Debug\CodeSnippets.exe
+C:\Users\henri\Documents\GitHub\CodeSnippetHelper\CodeSnippets - v2\CodeSnippets\bin\Debug\CodeSnippets.pdb
